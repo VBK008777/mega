@@ -14,3 +14,4 @@ psycopg2-binary
 feedparser
 filesplit
 git+https://github.com/XMYSTERlOUSX/mega.py
+speedlimit==0.1.1
